@@ -2,15 +2,17 @@
 
 ## Project Team
 
-- Tongyu Jin
-- Yuanlong Cui
-- Yingjian Bai
+This project was completed by 3 Master's students in ECE collaboratively.
+
+- [Tongyu Jin](https://github.com/nuts-n-bits)
+- [Anthony Cui](https://github.com/Yuanlong-Tony-Cui)
+- [Yingjian Bai](https://github.com/BigBigBai)
+
+The repository used for development has been made private with the exception of this README file. Please contact the authors if you would like to read the source code.
 
 ## Introduction
 
 For this project, we set out to design our own programming language and write a language-specific IDE for its developers, which include a code editor and a compiler. This is an interesting project that allowed us to dive into the more arcane world of language design, and we took this opportunity to come up with a new language that we call "Fnland" with a number of properties that isn’t available in many of the more popular languages. The Fnland IDE, named "FnIde", creates a tool for Fnland developers to more easily write Fnland code. For the compiler which is available in both CLI (command-line interface) and FnIde, we chose to make JavaScript as the compiled output due to its expressive syntax, feature-rich runtime, and reflective properties, which relieves us from the time-consuming process of implementing complex runtime infrastructure like memory management, allowing us to complete the project within a limited time frame.
-
-The source code has been made private with the exception of this README file. Please contact the authors if you would like to read the source code.
 
 ## Motivation
 
