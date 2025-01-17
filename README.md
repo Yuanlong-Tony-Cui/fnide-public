@@ -196,7 +196,7 @@ Fnland provides these standard library functions: `head` `tail` `snd` `cons` `ma
 
 The complete grammar rule of the language is defined by this generative ruleset:
 
-<img src="./grammar_definition/complete_grammar.png" alt="Grammar rule" width="900"/>
+<img src="./assets/complete_grammar.png" alt="Grammar rule" width="900"/>
 
 ### Features of FnC and FnIde
 
