@@ -2,7 +2,7 @@
 
 ## Project Team
 
-This project was completed by 3 Master's students in ECE collaboratively.
+This project was built by 3 ECE Master's students collaboratively to apply their knowledge of Rust to the design of Fnland, FnC (Fnland Compiler), and FnIde (Fnland IDE).
 
 - [Tongyu Jin](https://github.com/nuts-n-bits)
 - [Anthony Cui](https://github.com/Yuanlong-Tony-Cui)
